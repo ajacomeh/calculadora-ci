@@ -4,7 +4,7 @@ Calculadora básica.
 
 def suma(a, b):
     """Realiza una suma."""
-    return a - b
+    return a + b
 
 def resta(a, b):
     """Realiza una resta."""
